@@ -1,0 +1,257 @@
+
+7/21/2016, 11:07:31 PM
+
+Operating System
+  Name                        = Mac OS X
+  Version                     = 10.11.5
+  Architecture                = 64bit
+  # CPUs                      = 8
+  Memory                      = 17179869184
+
+Node.js
+  Node.js Version             = 0.12.9
+  npm Version                 = 2.14.9
+
+Titanium CLI
+  CLI Version                 = 5.0.8
+
+Titanium SDK
+  SDK Version                 = 5.3.0.GA
+  SDK Path                    = /Users/sorenthorup/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA
+  Target Platform             = iphone
+
+Command
+  /usr/local/bin/node /Users/sorenthorup/.appcelerator/install/5.3.0/package/node_modules/titanium/lib/titanium.js build run --platform ios --log-level trace --sdk 5.3.0.GA --project-dir /Users/sorenthorup/Documents/Appcelerator_Studio_Workspace/Push Offer --target simulator --ios-version 9.3 --device-family universal --deploy-type development --sim-type iphone --sim-version 9.3 --device-id 5FA8DB61-E576-48BB-88C2-185322BE0FBA --skip-js-minify --no-colors --no-progress-bars --no-prompt --prompt-type socket-bundle --prompt-port 51014 --config-file /var/folders/qc/k38_1nhd6yb1ptpmhgrx0b6w0000gp/T/build-1469135248860.json --no-banner --project-dir /Users/sorenthorup/Documents/Appcelerator_Studio_Workspace/Push Offer
+
+[TRACE]  [ioslib] Validating iOS Simulator UDID 5FA8DB61-E576-48BB-88C2-185322BE0FBA
+[TRACE]  [ioslib] Found iOS Simulator UDID 5FA8DB61-E576-48BB-88C2-185322BE0FBA
+[TRACE]  [ioslib] Selected iOS Simulator: iPhone 5s
+[TRACE]  [ioslib]   UDID    = 5FA8DB61-E576-48BB-88C2-185322BE0FBA
+[TRACE]  [ioslib]   iOS     = 9.3
+[TRACE]  [ioslib] Autoselected Xcode: 7.3.1
+[DEBUG]  Detecting modules in /Users/sorenthorup/Library/Application Support/Titanium/modules
+[DEBUG]  Detected android module: co.lanica.chipmunk2d 0.1 @ /Users/sorenthorup/Library/Application Support/Titanium/modules/android/co.lanica.chipmunk2d/0.1
+[DEBUG]  Detected android module: co.lanica.platino 2.0.1 @ /Users/sorenthorup/Library/Application Support/Titanium/modules/android/co.lanica.platino/2.0.1
+[DEBUG]  Detected android module: com.appcelerator.apm 1.1.1 @ /Users/sorenthorup/Library/Application Support/Titanium/modules/android/com.appcelerator.apm/1.1.1
+[DEBUG]  Detected android module: com.appcelerator.apm 1.1.5 @ /Users/sorenthorup/Library/Application Support/Titanium/modules/android/com.appcelerator.apm/1.1.5
+[DEBUG]  Detected android module: facebook 3.0.1 @ /Users/sorenthorup/Library/Application Support/Titanium/modules/android/facebook/3.0.1
+[DEBUG]  Detected android module: facebook 3.0.2 @ /Users/sorenthorup/Library/Application Support/Titanium/modules/android/facebook/3.0.2
+[DEBUG]  Detected android module: facebook 3.0.3 @ /Users/sorenthorup/Library/Application Support/Titanium/modules/android/facebook/3.0.3
+[DEBUG]  Detected android module: facebook 4.0.5 @ /Users/sorenthorup/Library/Application Support/Titanium/modules/android/facebook/4.0.5
+[DEBUG]  Detected android module: facebook 5.0.0 @ /Users/sorenthorup/Library/Application Support/Titanium/modules/android/facebook/5.0.0
+[DEBUG]  Detected android module: ti.admob 2.1.5 @ /Users/sorenthorup/Library/Application Support/Titanium/modules/android/ti.admob/2.1.5
+[DEBUG]  Detected android module: ti.cloudpush 2.3.2 @ /Users/sorenthorup/Library/Application Support/Titanium/modules/android/ti.cloudpush/2.3.2
+[DEBUG]  Detected android module: ti.cloudpush 3.2.0 @ /Users/sorenthorup/Library/Application Support/Titanium/modules/android/ti.cloudpush/3.2.0
+[DEBUG]  Detected android module: ti.cloudpush 3.2.1 @ /Users/sorenthorup/Library/Application Support/Titanium/modules/android/ti.cloudpush/3.2.1
+[DEBUG]  Detected android module: ti.cloudpush 3.3.0 @ /Users/sorenthorup/Library/Application Support/Titanium/modules/android/ti.cloudpush/3.3.0
+[DEBUG]  Detected android module: ti.cloudpush 3.3.7 @ /Users/sorenthorup/Library/Application Support/Titanium/modules/android/ti.cloudpush/3.3.7
+[DEBUG]  Detected android module: ti.cloudpush 3.3.8 @ /Users/sorenthorup/Library/Application Support/Titanium/modules/android/ti.cloudpush/3.3.8
+[DEBUG]  Detected android module: ti.cloudpush 3.4.0 @ /Users/sorenthorup/Library/Application Support/Titanium/modules/android/ti.cloudpush/3.4.0
+[DEBUG]  Detected android module: ti.cloudpush 3.4.1 @ /Users/sorenthorup/Library/Application Support/Titanium/modules/android/ti.cloudpush/3.4.1
+[DEBUG]  Detected android module: ti.map 2.1.2 @ /Users/sorenthorup/Library/Application Support/Titanium/modules/android/ti.map/2.1.2
+[DEBUG]  Detected android module: ti.map 2.1.3 @ /Users/sorenthorup/Library/Application Support/Titanium/modules/android/ti.map/2.1.3
+[DEBUG]  Detected android module: ti.map 2.1.4 @ /Users/sorenthorup/Library/Application Support/Titanium/modules/android/ti.map/2.1.4
+[DEBUG]  Detected android module: ti.map 2.2.3 @ /Users/sorenthorup/Library/Application Support/Titanium/modules/android/ti.map/2.2.3
+[DEBUG]  Detected android module: ti.map 2.3.1 @ /Users/sorenthorup/Library/Application Support/Titanium/modules/android/ti.map/2.3.1
+[DEBUG]  Detected android module: ti.map 2.3.3 @ /Users/sorenthorup/Library/Application Support/Titanium/modules/android/ti.map/2.3.3
+[DEBUG]  Detected android module: ti.map 2.3.4 @ /Users/sorenthorup/Library/Application Support/Titanium/modules/android/ti.map/2.3.4
+[DEBUG]  Detected android module: ti.map 2.3.6 @ /Users/sorenthorup/Library/Application Support/Titanium/modules/android/ti.map/2.3.6
+[DEBUG]  Detected commonjs module: co.lanica.chipmunk2d.debugdraw 1.0.0 @ /Users/sorenthorup/Library/Application Support/Titanium/modules/commonjs/co.lanica.chipmunk2d.debugdraw/1.0.0
+[DEBUG]  Detected commonjs module: ti.cloud 2.3.7 @ /Users/sorenthorup/Library/Application Support/Titanium/modules/commonjs/ti.cloud/2.3.7
+[DEBUG]  Detected commonjs module: ti.cloud 3.2.0 @ /Users/sorenthorup/Library/Application Support/Titanium/modules/commonjs/ti.cloud/3.2.0
+[DEBUG]  Detected commonjs module: ti.cloud 3.2.1 @ /Users/sorenthorup/Library/Application Support/Titanium/modules/commonjs/ti.cloud/3.2.1
+[DEBUG]  Detected commonjs module: ti.cloud 3.2.10 @ /Users/sorenthorup/Library/Application Support/Titanium/modules/commonjs/ti.cloud/3.2.10
+[DEBUG]  Detected commonjs module: ti.cloud 3.2.2 @ /Users/sorenthorup/Library/Application Support/Titanium/modules/commonjs/ti.cloud/3.2.2
+[DEBUG]  Detected commonjs module: ti.cloud 3.2.3 @ /Users/sorenthorup/Library/Application Support/Titanium/modules/commonjs/ti.cloud/3.2.3
+[DEBUG]  Detected commonjs module: ti.cloud 3.2.5 @ /Users/sorenthorup/Library/Application Support/Titanium/modules/commonjs/ti.cloud/3.2.5
+[DEBUG]  Detected commonjs module: ti.cloud 3.2.7 @ /Users/sorenthorup/Library/Application Support/Titanium/modules/commonjs/ti.cloud/3.2.7
+[DEBUG]  Detected commonjs module: ti.cloud 3.2.9 @ /Users/sorenthorup/Library/Application Support/Titanium/modules/commonjs/ti.cloud/3.2.9
+[DEBUG]  Detected iphone module: co.lanica.chipmunk2d 0.1 @ /Users/sorenthorup/Library/Application Support/Titanium/modules/iphone/co.lanica.chipmunk2d/0.1
+[DEBUG]  Detected iphone module: co.lanica.platino 2.0.1 @ /Users/sorenthorup/Library/Application Support/Titanium/modules/iphone/co.lanica.platino/2.0.1
+[DEBUG]  Detected iphone module: com.appcelerator.apm 1.1.1 @ /Users/sorenthorup/Library/Application Support/Titanium/modules/iphone/com.appcelerator.apm/1.1.1
+[DEBUG]  Detected iphone module: com.appcelerator.apm 1.1.5 @ /Users/sorenthorup/Library/Application Support/Titanium/modules/iphone/com.appcelerator.apm/1.1.5
+[DEBUG]  Detected iphone module: com.appcelerator.urlSession 1.0.0 @ /Users/sorenthorup/Library/Application Support/Titanium/modules/iphone/com.appcelerator.urlSession/1.0.0
+[DEBUG]  Detected iphone module: com.appcelerator.urlSession 1.0.1 @ /Users/sorenthorup/Library/Application Support/Titanium/modules/iphone/com.appcelerator.urlSession/1.0.1
+[DEBUG]  Detected iphone module: com.appcelerator.urlSession 1.1.0 @ /Users/sorenthorup/Library/Application Support/Titanium/modules/iphone/com.appcelerator.urlSession/1.1.0
+[DEBUG]  Detected iphone module: com.appcelerator.urlSession 1.1.1 @ /Users/sorenthorup/Library/Application Support/Titanium/modules/iphone/com.appcelerator.urlSession/1.1.1
+[DEBUG]  Detected iphone module: com.appcelerator.urlSession 2.0.0 @ /Users/sorenthorup/Library/Application Support/Titanium/modules/iphone/com.appcelerator.urlSession/2.0.0
+[DEBUG]  Detected iphone module: facebook 3.1.1 @ /Users/sorenthorup/Library/Application Support/Titanium/modules/iphone/facebook/3.1.1
+[DEBUG]  Detected iphone module: facebook 3.2.0 @ /Users/sorenthorup/Library/Application Support/Titanium/modules/iphone/facebook/3.2.0
+[DEBUG]  Detected iphone module: facebook 4.0.5 @ /Users/sorenthorup/Library/Application Support/Titanium/modules/iphone/facebook/4.0.5
+[DEBUG]  Detected iphone module: facebook 5.0.1 @ /Users/sorenthorup/Library/Application Support/Titanium/modules/iphone/facebook/5.0.1
+[DEBUG]  Detected iphone module: ti.admob 2.0.0 @ /Users/sorenthorup/Library/Application Support/Titanium/modules/iphone/ti.admob/2.0.0
+[DEBUG]  Detected iphone module: ti.admob 2.1.0 @ /Users/sorenthorup/Library/Application Support/Titanium/modules/iphone/ti.admob/2.1.0
+[DEBUG]  Detected iphone module: ti.admobmoduleios 1.0.0 @ /Users/sorenthorup/Library/Application Support/Titanium/modules/iphone/ti.admobmoduleios/1.0.0
+[DEBUG]  Detected iphone module: ti.coremotion 1.0.1 @ /Users/sorenthorup/Library/Application Support/Titanium/modules/iphone/ti.coremotion/1.0.1
+[DEBUG]  Detected iphone module: ti.coremotion 1.1.0 @ /Users/sorenthorup/Library/Application Support/Titanium/modules/iphone/ti.coremotion/1.1.0
+[DEBUG]  Detected iphone module: ti.coremotion 2.0.0 @ /Users/sorenthorup/Library/Application Support/Titanium/modules/iphone/ti.coremotion/2.0.0
+[DEBUG]  Detected iphone module: ti.map 2.0.0 @ /Users/sorenthorup/Library/Application Support/Titanium/modules/iphone/ti.map/2.0.0
+[DEBUG]  Detected iphone module: ti.map 2.0.1 @ /Users/sorenthorup/Library/Application Support/Titanium/modules/iphone/ti.map/2.0.1
+[DEBUG]  Detected iphone module: ti.map 2.0.2 @ /Users/sorenthorup/Library/Application Support/Titanium/modules/iphone/ti.map/2.0.2
+[DEBUG]  Detected iphone module: ti.map 2.0.3 @ /Users/sorenthorup/Library/Application Support/Titanium/modules/iphone/ti.map/2.0.3
+[DEBUG]  Detected iphone module: ti.map 2.0.4 @ /Users/sorenthorup/Library/Application Support/Titanium/modules/iphone/ti.map/2.0.4
+[DEBUG]  Detected iphone module: ti.map 2.2.0 @ /Users/sorenthorup/Library/Application Support/Titanium/modules/iphone/ti.map/2.2.0
+[DEBUG]  Detected iphone module: ti.map 2.3.1 @ /Users/sorenthorup/Library/Application Support/Titanium/modules/iphone/ti.map/2.3.1
+[DEBUG]  Detected iphone module: ti.map 2.4.1 @ /Users/sorenthorup/Library/Application Support/Titanium/modules/iphone/ti.map/2.4.1
+[DEBUG]  Detected iphone module: ti.map 2.5.2 @ /Users/sorenthorup/Library/Application Support/Titanium/modules/iphone/ti.map/2.5.2
+[DEBUG]  Detected iphone module: ti.safaridialog 1.0.2 @ /Users/sorenthorup/Library/Application Support/Titanium/modules/iphone/ti.safaridialog/1.0.2
+[DEBUG]  Detected iphone module: ti.safaridialog 1.0.3 @ /Users/sorenthorup/Library/Application Support/Titanium/modules/iphone/ti.safaridialog/1.0.3
+[DEBUG]  Detected iphone module: ti.safaridialog 1.0.5 @ /Users/sorenthorup/Library/Application Support/Titanium/modules/iphone/ti.safaridialog/1.0.5
+[DEBUG]  Detected iphone module: ti.touchid 1.0 @ /Users/sorenthorup/Library/Application Support/Titanium/modules/iphone/ti.touchid/1.0
+[DEBUG]  Detected iphone module: ti.touchid 1.1.0 @ /Users/sorenthorup/Library/Application Support/Titanium/modules/iphone/ti.touchid/1.1.0
+[DEBUG]  Detected iphone module: ti.touchid 1.2.0 @ /Users/sorenthorup/Library/Application Support/Titanium/modules/iphone/ti.touchid/1.2.0
+[DEBUG]  Detected tizen module: tizen 3.0.0 @ /Users/sorenthorup/Library/Application Support/Titanium/modules/tizen/tizen/3.0.0
+[DEBUG]  Looking for Titanium module id=ti.cloud version=latest platform=commonjs deploy-type=development
+[INFO]   Found Titanium module id=ti.cloud version=3.2.9 platform=commonjs deploy-type=development path=/Users/sorenthorup/Library/Application Support/Titanium/modules/commonjs/ti.cloud/3.2.9
+[INFO]   Found better matching module id=ti.cloud version=latest platform=commonjs deploy-type=development path=/Users/sorenthorup/Library/Application Support/Titanium/modules/commonjs/ti.cloud/3.2.10
+[DEBUG]  No project level plugins to load
+[TRACE]  Snapshotting build directory
+[DEBUG]  Titanium SDK iOS directory: /Users/sorenthorup/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/iphone
+[INFO]   Deploy type: development
+[INFO]   Building for target: simulator
+[INFO]   Building using iOS SDK: 9.3
+[INFO]   Building for iOS Simulator: iPhone 5s
+[DEBUG]  UDID: 5FA8DB61-E576-48BB-88C2-185322BE0FBA
+[DEBUG]  Simulator type: iphone
+[DEBUG]  Simulator version: 9.3
+[INFO]   Building for device family: universal
+[DEBUG]  Setting Xcode target to Debug
+[DEBUG]  Setting Xcode build OS to iphonesimulator
+[DEBUG]  Xcode installation: /Applications/Xcode.app/Contents/Developer
+[DEBUG]  iOS WWDR certificate: installed
+[INFO]   Minimum iOS version: 7.1
+[INFO]   Debugging disabled
+[INFO]   Profiler disabled
+[INFO]   Set to copy files instead of symlinking
+[INFO]   Initializing the build directory
+[TRACE]  offline build file /var/folders/qc/k38_1nhd6yb1ptpmhgrx0b6w0000gp/T/build-559a80174a75611771c042dee87a5b487fdad7dc.json
+[TRACE]  online 1
+[TRACE]  optimizing build, last build was 5587.153 sec ago
+[INFO]   Creating Xcode project
+[TRACE]  Removing pre-compile phase
+[TRACE]  No native module libraries to add
+[TRACE]  No extensions to add
+[TRACE]  No change, skipping /Users/sorenthorup/Documents/Appcelerator_Studio_Workspace/Push Offer/build/iphone/Push Offer.xcodeproj/project.pbxproj
+[INFO]   Creating Entitlements.plist
+[TRACE]  No change, skipping /Users/sorenthorup/Documents/Appcelerator_Studio_Workspace/Push Offer/build/iphone/Push Offer.entitlements
+[INFO]   Creating Info.plist
+[DEBUG]  Checking for Splash Screen localization
+[INFO]   Disabling ATS
+[TRACE]  No change, skipping /Users/sorenthorup/Documents/Appcelerator_Studio_Workspace/Push Offer/build/iphone/Info.plist
+[INFO]   Creating main.m
+[TRACE]  No change, skipping /Users/sorenthorup/Documents/Appcelerator_Studio_Workspace/Push Offer/build/iphone/main.m
+[INFO]   Creating Xcode config files
+[TRACE]  No change, skipping /Users/sorenthorup/Documents/Appcelerator_Studio_Workspace/Push Offer/build/iphone/project.xcconfig
+[TRACE]  No change, skipping /Users/sorenthorup/Documents/Appcelerator_Studio_Workspace/Push Offer/build/iphone/module.xcconfig
+[INFO]   Copying Titanium libraries
+[TRACE]  No change, skipping /Users/sorenthorup/Documents/Appcelerator_Studio_Workspace/Push Offer/build/iphone/lib/libTiCore.a
+[TRACE]  No change, skipping /Users/sorenthorup/Documents/Appcelerator_Studio_Workspace/Push Offer/build/iphone/lib/libtiverify.a
+[TRACE]  No change, skipping /Users/sorenthorup/Documents/Appcelerator_Studio_Workspace/Push Offer/build/iphone/lib/libti_ios_debugger.a
+[TRACE]  No change, skipping /Users/sorenthorup/Documents/Appcelerator_Studio_Workspace/Push Offer/build/iphone/lib/libti_ios_profiler.a
+[INFO]   Copying Titanium iOS files
+[TRACE]  Skipping Classes/ApplicationRouting.m, it'll be processed later
+[TRACE]  No change, skipping /Users/sorenthorup/Documents/Appcelerator_Studio_Workspace/Push Offer/build/iphone/Push_Offer_Prefix.pch
+[TRACE]  No change, skipping /Users/sorenthorup/Documents/Appcelerator_Studio_Workspace/Push Offer/build/iphone/Push Offer.xcodeproj/xcshareddata/xcschemes/Push_Offer.xcscheme
+[INFO]   Installing default LaunchScreen.storyboard
+[TRACE]  No change, skipping /Users/sorenthorup/Documents/Appcelerator_Studio_Workspace/Push Offer/build/iphone/LaunchScreen.storyboard
+[INFO]   Creating debugger and profiler plists
+[DEBUG]  Skipping /Users/sorenthorup/Documents/Appcelerator_Studio_Workspace/Push Offer/build/iphone/build/Products/Debug-iphonesimulator/Push Offer.app/debugger.plist
+[DEBUG]  Skipping /Users/sorenthorup/Documents/Appcelerator_Studio_Workspace/Push Offer/build/iphone/build/Products/Debug-iphonesimulator/Push Offer.app/profiler.plist
+[INFO]   Analyzing Resources directory
+[INFO]   Analyzing platform files
+[INFO]   Analyzing module files
+[INFO]   Analyzing localized launch images
+[INFO]   Analyzing CommonJS modules
+[INFO]   Creating asset catalog
+[TRACE]  No change, skipping /Users/sorenthorup/Documents/Appcelerator_Studio_Workspace/Push Offer/build/iphone/Assets.xcassets/Contents.json
+[INFO]   Creating app icon set
+[TRACE]  Found generated 29x29 app icon: /Users/sorenthorup/Documents/Appcelerator_Studio_Workspace/Push Offer/build/iphone/Assets.xcassets/AppIcon.appiconset/appicon-Small.png
+[TRACE]  Found generated 58x58 app icon: /Users/sorenthorup/Documents/Appcelerator_Studio_Workspace/Push Offer/build/iphone/Assets.xcassets/AppIcon.appiconset/appicon-Small@2x.png
+[TRACE]  Found generated 87x87 app icon: /Users/sorenthorup/Documents/Appcelerator_Studio_Workspace/Push Offer/build/iphone/Assets.xcassets/AppIcon.appiconset/appicon-Small@3x.png
+[TRACE]  Found generated 40x40 app icon: /Users/sorenthorup/Documents/Appcelerator_Studio_Workspace/Push Offer/build/iphone/Assets.xcassets/AppIcon.appiconset/appicon-Small-40.png
+[TRACE]  Found generated 80x80 app icon: /Users/sorenthorup/Documents/Appcelerator_Studio_Workspace/Push Offer/build/iphone/Assets.xcassets/AppIcon.appiconset/appicon-Small-40@2x.png
+[TRACE]  Found generated 120x120 app icon: /Users/sorenthorup/Documents/Appcelerator_Studio_Workspace/Push Offer/build/iphone/Assets.xcassets/AppIcon.appiconset/appicon-Small-40@3x.png
+[TRACE]  Found generated 120x120 app icon: /Users/sorenthorup/Documents/Appcelerator_Studio_Workspace/Push Offer/build/iphone/Assets.xcassets/AppIcon.appiconset/appicon-60@2x.png
+[TRACE]  Found generated 180x180 app icon: /Users/sorenthorup/Documents/Appcelerator_Studio_Workspace/Push Offer/build/iphone/Assets.xcassets/AppIcon.appiconset/appicon-60@3x.png
+[TRACE]  Found generated 76x76 app icon: /Users/sorenthorup/Documents/Appcelerator_Studio_Workspace/Push Offer/build/iphone/Assets.xcassets/AppIcon.appiconset/appicon-76.png
+[TRACE]  Found generated 152x152 app icon: /Users/sorenthorup/Documents/Appcelerator_Studio_Workspace/Push Offer/build/iphone/Assets.xcassets/AppIcon.appiconset/appicon-76@2x.png
+[TRACE]  Found generated 167x167 app icon: /Users/sorenthorup/Documents/Appcelerator_Studio_Workspace/Push Offer/build/iphone/Assets.xcassets/AppIcon.appiconset/appicon-83.5@2x.png
+[TRACE]  No change, skipping /Users/sorenthorup/Documents/Appcelerator_Studio_Workspace/Push Offer/build/iphone/Assets.xcassets/AppIcon.appiconset/Contents.json
+[INFO]   Creating launch logo image set
+[TRACE]  Found generated 320x320 launch logo: /Users/sorenthorup/Documents/Appcelerator_Studio_Workspace/Push Offer/build/iphone/Assets.xcassets/LaunchLogo.imageset/LaunchLogo~iphone.png
+[TRACE]  Found generated 374x374 launch logo: /Users/sorenthorup/Documents/Appcelerator_Studio_Workspace/Push Offer/build/iphone/Assets.xcassets/LaunchLogo.imageset/LaunchLogo@2x~iphone.png
+[TRACE]  Found generated 621x621 launch logo: /Users/sorenthorup/Documents/Appcelerator_Studio_Workspace/Push Offer/build/iphone/Assets.xcassets/LaunchLogo.imageset/LaunchLogo@3x~iphone.png
+[TRACE]  Found generated 384x384 launch logo: /Users/sorenthorup/Documents/Appcelerator_Studio_Workspace/Push Offer/build/iphone/Assets.xcassets/LaunchLogo.imageset/LaunchLogo~ipad.png
+[TRACE]  Found generated 1024x1024 launch logo: /Users/sorenthorup/Documents/Appcelerator_Studio_Workspace/Push Offer/build/iphone/Assets.xcassets/LaunchLogo.imageset/LaunchLogo@2x~ipad.png
+[TRACE]  No change, skipping /Users/sorenthorup/Documents/Appcelerator_Studio_Workspace/Push Offer/build/iphone/Assets.xcassets/LaunchLogo.imageset/Contents.json
+[INFO]   Creating launch image set
+[DEBUG]  Unsupported launch image Resources/iphone/Default.png, skipping
+[TRACE]  No change, skipping /Users/sorenthorup/Documents/Appcelerator_Studio_Workspace/Push Offer/build/iphone/Assets.xcassets/LaunchImage.launchimage/Contents.json
+[INFO]   App thinning disabled, skipping asset image sets
+[DEBUG]  Copying resources
+[TRACE]  No change, skipping /Users/sorenthorup/Documents/Appcelerator_Studio_Workspace/Push Offer/build/iphone/build/Products/Debug-iphonesimulator/Push Offer.app/KS_nav_ui.png
+[DEBUG]  Overwriting /Users/sorenthorup/Documents/Appcelerator_Studio_Workspace/Push Offer/Resources/KS_nav_ui.png => /Users/sorenthorup/Documents/Appcelerator_Studio_Workspace/Push Offer/build/iphone/build/Products/Debug-iphonesimulator/Push Offer.app/KS_nav_ui.png
+[TRACE]  No change, skipping /Users/sorenthorup/Documents/Appcelerator_Studio_Workspace/Push Offer/build/iphone/build/Products/Debug-iphonesimulator/Push Offer.app/KS_nav_views.png
+[DEBUG]  Overwriting /Users/sorenthorup/Documents/Appcelerator_Studio_Workspace/Push Offer/Resources/KS_nav_views.png => /Users/sorenthorup/Documents/Appcelerator_Studio_Workspace/Push Offer/build/iphone/build/Products/Debug-iphonesimulator/Push Offer.app/KS_nav_views.png
+[TRACE]  No change, skipping /Users/sorenthorup/Documents/Appcelerator_Studio_Workspace/Push Offer/build/iphone/Assets.xcassets/LaunchImage.launchimage/Default-568h@2x.png
+[DEBUG]  Overwriting /Users/sorenthorup/Documents/Appcelerator_Studio_Workspace/Push Offer/Resources/iphone/Default-568h@2x.png => /Users/sorenthorup/Documents/Appcelerator_Studio_Workspace/Push Offer/build/iphone/Assets.xcassets/LaunchImage.launchimage/Default-568h@2x.png
+[TRACE]  No change, skipping /Users/sorenthorup/Documents/Appcelerator_Studio_Workspace/Push Offer/build/iphone/Assets.xcassets/LaunchImage.launchimage/Default-667h@2x.png
+[DEBUG]  Overwriting /Users/sorenthorup/Documents/Appcelerator_Studio_Workspace/Push Offer/Resources/iphone/Default-667h@2x.png => /Users/sorenthorup/Documents/Appcelerator_Studio_Workspace/Push Offer/build/iphone/Assets.xcassets/LaunchImage.launchimage/Default-667h@2x.png
+[TRACE]  No change, skipping /Users/sorenthorup/Documents/Appcelerator_Studio_Workspace/Push Offer/build/iphone/Assets.xcassets/LaunchImage.launchimage/Default-Landscape-736h@3x.png
+[DEBUG]  Overwriting /Users/sorenthorup/Documents/Appcelerator_Studio_Workspace/Push Offer/Resources/iphone/Default-Landscape-736h@3x.png => /Users/sorenthorup/Documents/Appcelerator_Studio_Workspace/Push Offer/build/iphone/Assets.xcassets/LaunchImage.launchimage/Default-Landscape-736h@3x.png
+[TRACE]  No change, skipping /Users/sorenthorup/Documents/Appcelerator_Studio_Workspace/Push Offer/build/iphone/Assets.xcassets/LaunchImage.launchimage/Default-Landscape.png
+[DEBUG]  Overwriting /Users/sorenthorup/Documents/Appcelerator_Studio_Workspace/Push Offer/Resources/iphone/Default-Landscape.png => /Users/sorenthorup/Documents/Appcelerator_Studio_Workspace/Push Offer/build/iphone/Assets.xcassets/LaunchImage.launchimage/Default-Landscape.png
+[TRACE]  No change, skipping /Users/sorenthorup/Documents/Appcelerator_Studio_Workspace/Push Offer/build/iphone/Assets.xcassets/LaunchImage.launchimage/Default-Landscape@2x.png
+[DEBUG]  Overwriting /Users/sorenthorup/Documents/Appcelerator_Studio_Workspace/Push Offer/Resources/iphone/Default-Landscape@2x.png => /Users/sorenthorup/Documents/Appcelerator_Studio_Workspace/Push Offer/build/iphone/Assets.xcassets/LaunchImage.launchimage/Default-Landscape@2x.png
+[TRACE]  No change, skipping /Users/sorenthorup/Documents/Appcelerator_Studio_Workspace/Push Offer/build/iphone/Assets.xcassets/LaunchImage.launchimage/Default-Portrait-736h@3x.png
+[DEBUG]  Overwriting /Users/sorenthorup/Documents/Appcelerator_Studio_Workspace/Push Offer/Resources/iphone/Default-Portrait-736h@3x.png => /Users/sorenthorup/Documents/Appcelerator_Studio_Workspace/Push Offer/build/iphone/Assets.xcassets/LaunchImage.launchimage/Default-Portrait-736h@3x.png
+[TRACE]  No change, skipping /Users/sorenthorup/Documents/Appcelerator_Studio_Workspace/Push Offer/build/iphone/Assets.xcassets/LaunchImage.launchimage/Default-Portrait.png
+[DEBUG]  Overwriting /Users/sorenthorup/Documents/Appcelerator_Studio_Workspace/Push Offer/Resources/iphone/Default-Portrait.png => /Users/sorenthorup/Documents/Appcelerator_Studio_Workspace/Push Offer/build/iphone/Assets.xcassets/LaunchImage.launchimage/Default-Portrait.png
+[TRACE]  No change, skipping /Users/sorenthorup/Documents/Appcelerator_Studio_Workspace/Push Offer/build/iphone/Assets.xcassets/LaunchImage.launchimage/Default-Portrait@2x.png
+[DEBUG]  Overwriting /Users/sorenthorup/Documents/Appcelerator_Studio_Workspace/Push Offer/Resources/iphone/Default-Portrait@2x.png => /Users/sorenthorup/Documents/Appcelerator_Studio_Workspace/Push Offer/build/iphone/Assets.xcassets/LaunchImage.launchimage/Default-Portrait@2x.png
+[TRACE]  No change, skipping /Users/sorenthorup/Documents/Appcelerator_Studio_Workspace/Push Offer/build/iphone/Assets.xcassets/LaunchImage.launchimage/Default@2x.png
+[DEBUG]  Overwriting /Users/sorenthorup/Documents/Appcelerator_Studio_Workspace/Push Offer/Resources/iphone/Default@2x.png => /Users/sorenthorup/Documents/Appcelerator_Studio_Workspace/Push Offer/build/iphone/Assets.xcassets/LaunchImage.launchimage/Default@2x.png
+[DEBUG]  Copying CSS files
+[INFO]   Processing JavaScript files
+[DEBUG]  Overwriting /Users/sorenthorup/Documents/Appcelerator_Studio_Workspace/Push Offer/Resources/app.js => /Users/sorenthorup/Documents/Appcelerator_Studio_Workspace/Push Offer/build/iphone/build/Products/Debug-iphonesimulator/Push Offer.app/app.js
+[DEBUG]  Overwriting /Users/sorenthorup/Documents/Appcelerator_Studio_Workspace/Push Offer/Resources/ui/common/FirstView.js => /Users/sorenthorup/Documents/Appcelerator_Studio_Workspace/Push Offer/build/iphone/build/Products/Debug-iphonesimulator/Push Offer.app/ui/common/FirstView.js
+[DEBUG]  Overwriting /Users/sorenthorup/Documents/Appcelerator_Studio_Workspace/Push Offer/Resources/ui/handheld/ApplicationWindow.js => /Users/sorenthorup/Documents/Appcelerator_Studio_Workspace/Push Offer/build/iphone/build/Products/Debug-iphonesimulator/Push Offer.app/ui/handheld/ApplicationWindow.js
+[DEBUG]  Overwriting /Users/sorenthorup/Documents/Appcelerator_Studio_Workspace/Push Offer/Resources/ui/handheld/android/ApplicationWindow.js => /Users/sorenthorup/Documents/Appcelerator_Studio_Workspace/Push Offer/build/iphone/build/Products/Debug-iphonesimulator/Push Offer.app/ui/handheld/android/ApplicationWindow.js
+[DEBUG]  Overwriting /Users/sorenthorup/Documents/Appcelerator_Studio_Workspace/Push Offer/Resources/ui/tablet/ApplicationWindow.js => /Users/sorenthorup/Documents/Appcelerator_Studio_Workspace/Push Offer/build/iphone/build/Products/Debug-iphonesimulator/Push Offer.app/ui/tablet/ApplicationWindow.js
+[DEBUG]  Overwriting /Users/sorenthorup/Library/Application Support/Titanium/modules/commonjs/ti.cloud/3.2.10/ti.cloud.js => /Users/sorenthorup/Documents/Appcelerator_Studio_Workspace/Push Offer/build/iphone/build/Products/Debug-iphonesimulator/Push Offer.app/ti.cloud.js
+[INFO]   Writing app properties
+[TRACE]  No change, skipping /Users/sorenthorup/Documents/Appcelerator_Studio_Workspace/Push Offer/build/iphone/build/Products/Debug-iphonesimulator/Push Offer.app/_app_props_.json
+[DEBUG]  Using default application routing
+[TRACE]  No change, skipping /Users/sorenthorup/Documents/Appcelerator_Studio_Workspace/Push Offer/build/iphone/Classes/ApplicationRouting.m
+[INFO]   Writing i18n files
+[DEBUG]  Compiling localization files
+[DEBUG]  Processing i18n file: en/strings.xml
+[DEBUG]  Processing i18n file: ja/strings.xml
+[TRACE]  No change, skipping /Users/sorenthorup/Documents/Appcelerator_Studio_Workspace/Push Offer/build/iphone/build/Products/Debug-iphonesimulator/Push Offer.app/en.lproj/Localizable.strings
+[TRACE]  No change, skipping /Users/sorenthorup/Documents/Appcelerator_Studio_Workspace/Push Offer/build/iphone/build/Products/Debug-iphonesimulator/Push Offer.app/ja.lproj/Localizable.strings
+[INFO]   Processing Titanium symbols
+[DEBUG]  Processing Titanium namespace resources
+[TRACE]  No change, skipping /Users/sorenthorup/Documents/Appcelerator_Studio_Workspace/Push Offer/build/iphone/build/Products/Debug-iphonesimulator/Push Offer.app/modules/ui/images/badge.png
+[TRACE]  No change, skipping /Users/sorenthorup/Documents/Appcelerator_Studio_Workspace/Push Offer/build/iphone/build/Products/Debug-iphonesimulator/Push Offer.app/modules/ui/images/closeButton.png
+[TRACE]  No change, skipping /Users/sorenthorup/Documents/Appcelerator_Studio_Workspace/Push Offer/build/iphone/build/Products/Debug-iphonesimulator/Push Offer.app/modules/ui/images/photoDefault.png
+[TRACE]  No change, skipping /Users/sorenthorup/Documents/Appcelerator_Studio_Workspace/Push Offer/build/iphone/Classes/defines.h
+[INFO]   Removing files
+[DEBUG]  Removing empty directories
+[INFO]   Skipping xcodebuild
+[INFO]   Finished building the application in 1s 446ms
+[INFO]   Launching iOS Simulator
+[TRACE]  [ioslib] Selected iOS Simulator: iPhone 5s
+[TRACE]  [ioslib]   UDID    = 5FA8DB61-E576-48BB-88C2-185322BE0FBA
+[TRACE]  [ioslib]   iOS     = 9.3
+[TRACE]  [ioslib] Autoselected Xcode: 7.3.1
+[TRACE]  [ioslib] Removing old log file: /Users/sorenthorup/Library/Developer/CoreSimulator/Devices/5FA8DB61-E576-48BB-88C2-185322BE0FBA/data/Containers/Data/Application/C121653F-34AF-4288-8973-26F7FCBA5F0F/Documents/a72d235f-371f-4d6c-9888-789e476e4b66.log
+[TRACE]  [ioslib] iPhone 5s Simulator already running with the correct udid
+[TRACE]  [ioslib] Tailing iPhone 5s Simulator system log: /Users/sorenthorup/Library/Logs/CoreSimulator/5FA8DB61-E576-48BB-88C2-185322BE0FBA/system.log
+[TRACE]  [ioslib] Running: osascript "/Users/sorenthorup/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/node_modules/ioslib/lib/sim_focus.scpt" "Simulator"
+[TRACE]  [ioslib] iPhone 5s Simulator successfully focused
+[TRACE]  [ioslib] Running: /Applications/Xcode.app/Contents/Developer/usr/bin/simctl install 5FA8DB61-E576-48BB-88C2-185322BE0FBA /Users/sorenthorup/Documents/Appcelerator_Studio_Workspace/Push Offer/build/iphone/build/Products/Debug-iphonesimulator/Push Offer.app
+[TRACE]  [ioslib] App installed
+[TRACE]  [ioslib] Running: /Applications/Xcode.app/Contents/Developer/usr/bin/simctl launch 5FA8DB61-E576-48BB-88C2-185322BE0FBA dk.ststudio.pushOffer
+[TRACE]  [ioslib] App launched
+[TRACE]  [Push Offer] assertion failed: 15F34 13E230: libxpc.dylib + 57882 [66C28065-C9DB-3C8E-926F-5A40210A6D1B]: 0x7d
+[TRACE]  [ioslib] Found application log file: /Users/sorenthorup/Library/Developer/CoreSimulator/Devices/5FA8DB61-E576-48BB-88C2-185322BE0FBA/data/Containers/Data/Application/6F1C2F5C-0761-4792-AE72-89D02656E6A6/Documents/a72d235f-371f-4d6c-9888-789e476e4b66.log
