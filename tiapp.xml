@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ti:app xmlns:ti="http://ti.appcelerator.org">
     <id>dk.ststudio.pushOffer</id>
-    <name>Push Offer</name>
+    <name>PushOffer</name>
     <version>1.0</version>
     <publisher>sorenthorup</publisher>
     <url>http://www.ststudio.dk</url>
-    <description/>
+    <description>undefined</description>
     <copyright>2016 by sorenthorup</copyright>
     <icon>appicon.png</icon>
     <fullscreen>false</fullscreen>
